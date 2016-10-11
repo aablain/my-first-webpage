@@ -10,6 +10,7 @@ font-family:Arial, Helvetica;
 h1{
   font-family:Helvetica;
   color:#2eb8b8;
+  padding-top: 2em;
 }
 
 h2{
@@ -29,6 +30,7 @@ ul {
   font-size: 1em;
   line-height: 2em;
 
+
 }
 
 li {
@@ -38,16 +40,32 @@ li {
 a{
   color: #444;
   font-size:1em;
+
+}
+
+nav a {
+  padding: .3em  1em
 }
 
 header{
   background-color: #eee;
   text-align:center;
+  height:200px;
+}
+
+nav {
+  line-height: 2em;
+  text-align: center;
+  font-size: 1.5em;
+  border-top: solid #333 .2em;
+  border-bottom: solid #333 .2em;
+
+  text-decoration: none;
 }
 
 #body {
-  background-color: #888;
-  padding: 5px 20px;
+  background-color: #eee;
+  padding: 15px 20px;
 
 }
 
@@ -55,4 +73,10 @@ footer{
   background-color:#2eb8b8;
   text-align:center;
   padding:1%;
+  border-top: solid #333 10px;
+}
+
+#float-right {
+  float:right;
+  padding: 1em;
 }
