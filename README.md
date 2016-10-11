@@ -1,4 +1,4 @@
-# _My First Webpage _
+# _My First Webpage!_
 
 #### _A html document including basic information on learning outcomes of Epicodus , 10/10/2016_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_This document includes a header and body section. _
+_This document includes a header and body section._
 
 ## Setup/Installation Requirements
 
